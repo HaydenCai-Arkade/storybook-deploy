@@ -1,0 +1,96 @@
+{
+  "slice_type": "images_slice",
+  "slice_label": null,
+  "items": [
+    {
+      "image": {
+        "dimensions": {
+          "width": 272,
+          "height": 239
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/e22835aa-417d-420f-87de-edd3c5935423_Screen+Shot+2020-09-21+at+9.48.07+pm.png?auto=compress,format"
+      },
+      "button_label": null,
+      "button_link": {
+        "link_type": "Any"
+      }
+    },
+    {
+      "image": {
+        "dimensions": {
+          "width": 267,
+          "height": 238
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/98ecfa5f-8a4f-458b-81ca-6bd275d2b70a_Screen+Shot+2020-09-21+at+9.48.26+pm.png?auto=compress,format"
+      },
+      "button_label": null,
+      "button_link": {
+        "link_type": "Any"
+      }
+    },
+    {
+      "image": {
+        "dimensions": {
+          "width": 299,
+          "height": 279
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/04615810-d3d5-4594-aff6-fdd67bcb3fe0_Screen+Shot+2020-09-21+at+9.47.42+pm.png?auto=compress,format"
+      },
+      "button_label": null,
+      "button_link": {
+        "link_type": "Any"
+      }
+    },
+    {
+      "image": {
+        "dimensions": {
+          "width": 261,
+          "height": 232
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/e5328f97-57f6-40e2-9474-cff11bfac0e4_Screen+Shot+2020-09-21+at+9.47.58+pm.png?auto=compress,format"
+      },
+      "button_label": null,
+      "button_link": {
+        "link_type": "Any"
+      }
+    },
+    {
+      "image": {},
+      "button_label": "Button One",
+      "button_link": {
+        "link_type": "Any"
+      }
+    },
+    {
+      "image": {},
+      "button_label": "Button Two",
+      "button_link": {
+        "link_type": "Any"
+      }
+    }
+  ],
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "FEATURE TEXT GOES HERE",
+        "spans": []
+      }
+    ],
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "L'embauche d'un rédacteur de description de produit peut vous faire gagner beaucoup de temps et vous aider à augmenter les conversions sur votre site Web.",
+        "spans": []
+      }
+    ]
+  }
+}

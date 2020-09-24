@@ -1,0 +1,59 @@
+{
+  "slice_type": "column_image_slice",
+  "slice_label": null,
+  "items": [
+    {
+      "image": {
+        "dimensions": {
+          "width": 364,
+          "height": 593
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/7a7b07d9-5468-4a99-9f75-d61e932b2ea5_Screen+Shot+2020-09-21+at+10.22.46+pm.png?auto=compress,format"
+      },
+      "button_label": "Button one",
+      "button_url": {
+        "link_type": "Any"
+      },
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "L'embauche d'un rédacteur de description de produit peut vous faire gagner beaucoup de temps et vous aider à augmenter les conversions sur votre site Web.",
+          "spans": []
+        }
+      ]
+    },
+    {
+      "image": {
+        "dimensions": {
+          "width": 459,
+          "height": 819
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/3e20c49f-afba-4c7f-87dd-35c52c8706f8_Screen+Shot+2020-09-21+at+10.25.55+pm.png?auto=compress,format"
+      },
+      "button_label": "Button two",
+      "button_url": {
+        "link_type": "Any"
+      },
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "L'embauche d'un rédacteur de description de produit peut vous faire gagner beaucoup de temps et vous aider à augmenter les conversions sur votre site Web.",
+          "spans": []
+        }
+      ]
+    }
+  ],
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "FEATURE TEXT GOES HERE",
+        "spans": []
+      }
+    ]
+  }
+}

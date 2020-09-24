@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "baseUrl": "./",
+    "paths": {
+      "components": ["components"],
+      "containers": ["containers"],
+      "hocs": ["hocs"],
+      "helpers": ["helpers"],
+      "gql": ["gql"],
+      "store": ["store"],
+      "providers": ["providers"],
+      "images": ["images"]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slice_type": "intro_banner",
+  "slice_label": null,
+  "items": [],
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Intro Text",
+        "spans": []
+      }
+    ],
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "text",
+        "spans": []
+      }
+    ],
+    "button_label": "Button one",
+    "button_link": {
+      "link_type": "Any"
+    },
+    "image": {
+      "dimensions": {
+        "width": 1350,
+        "height": 391
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/slice-machine-app/fcfeab4a-5f03-46a9-8789-38a10f97e06a_23.jpeg?auto=compress,format",
+      "responsive": {
+        "dimensions": {
+          "width": 375,
+          "height": 500
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/2de5501b-3967-46da-b8e5-bbb127d9c3a2_445.jpg?auto=compress,format&rect=138,0,293,391&w=375&h=500"
+      }
+    }
+  }
+}
