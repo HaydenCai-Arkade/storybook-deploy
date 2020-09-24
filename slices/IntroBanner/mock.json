@@ -13,7 +13,7 @@
     "description": [
       {
         "type": "paragraph",
-        "text": "text",
+        "text": "some description here",
         "spans": []
       }
     ],
@@ -23,12 +23,12 @@
     },
     "image": {
       "dimensions": {
-        "width": 1350,
-        "height": 391
+        "width": 1920,
+        "height": 647
       },
       "alt": null,
       "copyright": null,
-      "url": "https://images.prismic.io/slice-machine-app/fcfeab4a-5f03-46a9-8789-38a10f97e06a_23.jpeg?auto=compress,format",
+      "url": "https://images.prismic.io/slice-machine-app/f28fa8cb-b321-438e-9c12-c7f856505f06_NIke-NBX-banner.png?auto=compress,format",
       "responsive": {
         "dimensions": {
           "width": 375,
@@ -36,7 +36,7 @@
         },
         "alt": null,
         "copyright": null,
-        "url": "https://images.prismic.io/slice-machine-app/2de5501b-3967-46da-b8e5-bbb127d9c3a2_445.jpg?auto=compress,format&rect=138,0,293,391&w=375&h=500"
+        "url": "https://images.prismic.io/slice-machine-app/f28fa8cb-b321-438e-9c12-c7f856505f06_NIke-NBX-banner.png?auto=compress,format&rect=717,0,485,647&w=375&h=500"
       }
     }
   }

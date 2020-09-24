@@ -1,10 +1,10 @@
-import React from "react";
-import Link from "next/link";
-import SSRLink from "helper/SSRLink";
-import PropTypes from "prop-types";
+import React from 'react';
+import Link from 'next/link';
+import SSRLink from 'helper/SSRLink';
+import PropTypes from 'prop-types';
 
 const Header = ({ header }) => {
-  const nav = header ? header.body : [];
+  const nav = header ? header.data.body : [];
 
   return (
     <div className="menu">
@@ -16,7 +16,7 @@ const Header = ({ header }) => {
               <div>
                 {item.primary && item.primary.column_title
                   ? item.primary.column_title
-                  : ""}
+                  : ''}
               </div>
               <Link href="/">
                 <span className="nike-home">NIKE</span>

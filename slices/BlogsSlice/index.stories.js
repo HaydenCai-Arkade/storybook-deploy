@@ -3,8 +3,8 @@ import MySlice from '.';
 import mock from './mock.json';
 
 export default {
-  title: 'ImagesSlice',
+  title: 'BlogsSlice',
   component: MySlice,
 };
 
-export const __DefaultSlice = () => < MySlice slice={mock} />;
+export const __DefaultSlice = () => <MySlice slice={mock} />;

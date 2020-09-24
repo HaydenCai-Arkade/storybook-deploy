@@ -15,7 +15,7 @@ const MySlice = ({ slice }) => {
 
   return (
     <div className="intro-banner">
-      <img src={imageUrl} className="image" />
+      <img src={imageUrl} className="banner-image" />
       <div className="content">
         <div>
           {slice.primary.title ? (
@@ -34,31 +34,32 @@ const MySlice = ({ slice }) => {
     .intro-banner{
       width:100vw;
       position:relative;
-      color:white;
+      color:black;
       overflow-x: hidden;
     }
 
-    .image{
+    .banner-image{
       width:100%;
-      height:500px;
+      height:600px;
     }
 
     .content{
       width:100%;
       position:absolute;
       top:50%;
-      left:45%;
+      left:20%;
     }
 
     button{
       display:block;
-      background-color:white;
+      background-color:black;
       outline:none;
       width:200px;
       height:50px;
       font-size:20px;
       border:none;
       cursor:pointer;
+      color:white;
     }
     .sb-show-main {
       padding:0 !important;  

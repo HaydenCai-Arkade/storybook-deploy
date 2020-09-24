@@ -1,0 +1,30 @@
+{
+  "slice_type": "image_banner",
+  "slice_label": null,
+  "items": [],
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "A Visual Guide to the LeBron 18",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "The cushioning inthe LeBron 18brings together Zoom Air and Max Air in a new way for Nike Basketball.",
+        "spans": []
+      }
+    ],
+    "image": {
+      "dimensions": {
+        "width": 2852,
+        "height": 1504
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/slice-machine-app/9b40fdc7-5ece-4545-98db-4dd9f0337f8c_Screen+Shot+2020-09-24+at+1.08.11+pm.png?auto=compress,format"
+    }
+  }
+}

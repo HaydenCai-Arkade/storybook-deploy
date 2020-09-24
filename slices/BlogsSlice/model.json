@@ -1,7 +1,7 @@
 {
   "type": "Slice",
-  "fieldset": "ImagesSlice Template",
-  "description": "Template model for ImagesSlice",
+  "fieldset": "BlogsSlice Template",
+  "description": "Template model for BlogsSlice",
   "icon": "thumb_up",
   "display": "list",
   "non-repeat": {

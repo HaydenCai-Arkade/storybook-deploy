@@ -1,0 +1,66 @@
+{
+  "slice_type": "images_gallery_slice",
+  "slice_label": null,
+  "items": [
+    {
+      "image": {
+        "dimensions": {
+          "width": 1321,
+          "height": 826
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/db8251d9-2f1e-4a0b-a1bd-9d31c9f509f3_Screen+Shot+2020-09-23+at+12.51.45+pm.png?auto=compress,format"
+      }
+    },
+    {
+      "image": {
+        "dimensions": {
+          "width": 564,
+          "height": 563
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/876780b9-9824-4313-8e6b-fb64c4210937_Screen+Shot+2020-09-23+at+9.46.08+pm.png?auto=compress,format"
+      }
+    },
+    {
+      "image": {
+        "dimensions": {
+          "width": 1386,
+          "height": 822
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/b10a3c8d-4a83-4cfd-ba8d-e414e9ad97a3_Screen+Shot+2020-09-23+at+12.51.53+pm.png?auto=compress,format"
+      }
+    },
+    {
+      "image": {
+        "dimensions": {
+          "width": 1226,
+          "height": 824
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/0e941172-a56f-41e9-93fa-fab44c9ea2fd_Screen+Shot+2020-09-23+at+12.52.09+pm.png?auto=compress,format"
+      }
+    }
+  ],
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "THIS IS MAMBA MENTALITY",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Try to be better today than you were yesterday. Then, repeat. That's the Mamba Mentality that helped make Kobe Bryant one of the greatest athletes of his generation. Dive in during Mamba Week.",
+        "spans": []
+      }
+    ]
+  }
+}

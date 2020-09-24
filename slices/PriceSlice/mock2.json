@@ -3,13 +3,13 @@
   "slice_label": null,
   "items": [
     {
-      "button_label": "$10",
+      "button_label": "Button one",
       "button_link": {
         "link_type": "Any"
       }
     },
     {
-      "button_label": "$20",
+      "button_label": "Button two",
       "button_link": {
         "link_type": "Any"
       }
@@ -32,12 +32,12 @@
     ],
     "image": {
       "dimensions": {
-        "width": 1350,
-        "height": 391
+        "width": 1950,
+        "height": 806
       },
       "alt": null,
       "copyright": null,
-      "url": "https://images.prismic.io/slice-machine-app/fcfeab4a-5f03-46a9-8789-38a10f97e06a_23.jpeg?auto=compress,format"
+      "url": "https://images.prismic.io/slice-machine-app/47ebab97-4da8-444f-a100-4ba0b847082f_2323.jpg?auto=compress,format"
     }
   }
 }

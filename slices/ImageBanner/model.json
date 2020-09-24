@@ -1,7 +1,7 @@
 {
   "type": "Slice",
-  "fieldset": "FeatureSlice Template",
-  "description": "Template model for FeatureSlice",
+  "fieldset": "ImageBanner Template",
+  "description": "Template model for ImageBanner",
   "icon": "thumb_up",
   "display": "list",
   "non-repeat": {

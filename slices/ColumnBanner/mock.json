@@ -1,0 +1,30 @@
+{
+  "slice_type": "column_banner",
+  "slice_label": null,
+  "items": [],
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "England's Next Generation United by a Dream",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Capturing the spirit of the modern England team, representative of all people, the 2020 Nike collection employs the use of bespoke graphic prints that depict a “community of lions” — players and fans together, united in sharing a dream.",
+        "spans": []
+      }
+    ],
+    "image": {
+      "dimensions": {
+        "width": 1000,
+        "height": 562
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/slice-machine-app/928ab9aa-955b-404e-bd0c-7be6b46b58c7_Nike-SoccerBall-GoalKick_original.gif?auto=compress,format"
+    }
+  }
+}

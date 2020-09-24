@@ -1,0 +1,97 @@
+{
+  "slice_type": "single_blog",
+  "slice_label": null,
+  "items": [
+    {
+      "image": {
+        "dimensions": {
+          "width": 1394,
+          "height": 993
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/1554850d-7d03-49cb-9fd8-256cd476e9ce_Screen+Shot+2020-09-23+at+12.43.44+pm.png?auto=compress,format"
+      },
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "September 23, 2020 - The Jordan Brand Holiday 2020 Retro Footwear Collection combines rich history with high-tech construction to boldly connect the past to the future. Four iterations of the Air Jordan I and multiple women’s-exclusive styles are among the highlights.  ",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Air Jordan I Retro HI OG CO.JP \nFirst released in 2001, accompanying the Metallic Silver Air Jordan I HI OG CO.JP, the Midnight Navy colorway returns for a global release. One of the first HI OGs to use Navy coloring, this model was popular with skateboarders and worn by Nike SB athletes when Nike SB first formed in the early 2000s. The shoe features a metallic silver Swoosh and a jewel-finished Wings logo, and releases in full family sizing. ",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Women’s Air Jordan I HI OG  \nInspired by MJ’s iconic 63-point playoff game in Boston in 1986, the Women’s Air Jordan I HI OG focuses on progress, not perfection. The shoe flaunts a raw construction with unstitched eyelets and rich, genuine matted Lucky Green leather. The shoe, which comes in full family sizing, also features a parquet floor-inspired insole reminiscent of the old Boston court. ",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": []
+        }
+      ]
+    },
+    {
+      "image": {
+        "dimensions": {
+          "width": 1444,
+          "height": 812
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/slice-machine-app/25970465-7d2f-47fb-8266-155fd5c3df49_Screen+Shot+2020-09-23+at+12.40.41+pm.png?auto=compress,format"
+      },
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Air Jordan I Retro HI OG\nThis Air Jordan I HI OG employs a new twist on a familiar color scheme: Dark Mocha. A colorway with rich history in the Jordan Brand, the crisp color blocking on genuine nubuck leather gives this model a clean and classic look. The shoe comes in men’s and grade school sizing.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Air Jordan I Retro HI OG\nStraight from the vault, this HI OG takes inspiration from an elusive Friends and Family Air Jordan I in the 1980s that later came to life in 2003 as an Air Jordan I Mid. At the time, that Mid was amongst the first patent leather Air Jordan Is released from Jordan Brand. An OG satin woven label and glossy black and gold patent leather cover the model from heel to toe. It will be available in men’s and grade school sizing. ",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Air Jordan III Retro\nReleasing outside of North America, this take on the Air Jordan III employs a black genuine leather upper with accents of purple and orange on the midsole, ankle and tongue. Gray cement elephant print finishes the look. ",
+          "spans": []
+        }
+      ]
+    }
+  ],
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Jordan Brand Holiday Retro Releases",
+        "spans": []
+      }
+    ],
+    "date": "2020-09-10"
+  }
+}

@@ -1,17 +1,14 @@
-import React, { useState, useEffect, useContext } from "react";
-import { useRouter } from "next/router";
-import Header from "components/Header";
-import Footer from "components/Footer";
-import globalProps from "utils/globalProps";
-import { useQuery, useMutation } from "@apollo/react-hooks";
-import SingleProduct from "components/products/SingleProduct";
-import { PRODUCT_BY_HANDLE, productByHandleVars } from "helper/productGraphql";
-import { ShopContext } from "context/shopContext";
+import React, { useState, useEffect, useContext } from 'react';
+import { useRouter } from 'next/router';
+import Header from 'components/Header';
+import Footer from 'components/Footer';
+import { useQuery, useMutation } from '@apollo/react-hooks';
+import SingleProduct from 'components/products/SingleProduct';
+import { PRODUCT_BY_HANDLE, productByHandleVars } from 'helper/productGraphql';
+import { ShopContext } from 'context/shopContext';
 
-function P({ global }) {
+function P({ header, footer }) {
   const { addVariantToCart } = useContext(ShopContext);
-
-  const { header, footer } = global || {};
 
   const router = useRouter();
   const handle = router.query.handle;
@@ -63,23 +60,3 @@ function P({ global }) {
 }
 
 export default P;
-
-export async function getStaticProps({ preview = false }) {
-  const {
-    props: { global },
-  } = await globalProps();
-
-  return {
-    props: {
-      global,
-      preview,
-    },
-  };
-}
-
-export async function getStaticPaths() {
-  return {
-    paths: [],
-    fallback: true,
-  };
-}

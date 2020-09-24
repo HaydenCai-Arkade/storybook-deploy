@@ -2,7 +2,7 @@ import SSRLink from "helper/SSRLink";
 import PropTypes from "prop-types";
 
 function Footer({ footer }) {
-  const nav = footer ? footer.body : [];
+  const nav = footer ? footer.data.body : [];
 
   return (
     <div className="footer">

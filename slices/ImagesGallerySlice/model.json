@@ -1,0 +1,17 @@
+{
+  "type": "Slice",
+  "fieldset": "ImagesGallerySlice Template",
+  "description": "Template model for ImagesGallerySlice",
+  "icon": "thumb_up",
+  "display": "list",
+  "non-repeat": {
+    "title": {
+      "type": "StructuredText",
+      "config": {
+        "single": "heading1",
+        "label": "Title",
+        "placeholder": "This is where it all begins..."
+      }
+    }
+  }
+}

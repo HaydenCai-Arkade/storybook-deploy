@@ -1,1 +1,4 @@
-{"libraries":["@/slices","essential-slices"],"apiEndpoint":"https://slice-machine-app.cdn.prismic.io/api/v2"}
+{
+  "libraries": ["@/slices", "essential-slices"],
+  "apiEndpoint": "https://slice-machine-app.cdn.prismic.io/api/v2"
+}

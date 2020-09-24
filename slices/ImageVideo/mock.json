@@ -1,0 +1,39 @@
+{
+  "slice_type": "image_video",
+  "slice_label": null,
+  "items": [{}],
+  "primary": {
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "At NIKE, Inc., we see a world where everybody is an athlete—united in the joy of movement. Driven by our passion for sport and our instinct for innovation, we aim to elevate human potential. Whether our job is designing the ultimate sneaker or coding a revolutionary app, we’re united by the same mission: to bring inspiration and innovation to every athlete in the world. That means you. Because, as Bill Bowerman—Nike’s co-founder and legendary coach—once said, “If you have a body, you are an athlete.” Every day, we are demanding a better future for ourselves, our athletes, and our communities. We believe that diversity fosters creativity and accelerates innovation. We believe in protecting a planet where all athletes can thrive. And we believe every kid, everywhere, should have access to sport.",
+        "spans": []
+      }
+    ],
+    "picture": {
+      "dimensions": {
+        "width": 1453,
+        "height": 583
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/slice-machine-app/5022deb5-64a0-4d46-bd21-dc3cab992466_Screen+Shot+2020-09-23+at+12.10.31+pm.png?auto=compress,format"
+    },
+    "video": {
+      "author_url": "https://www.youtube.com/user/nike",
+      "type": "video",
+      "provider_url": "https://www.youtube.com/",
+      "thumbnail_url": "https://i.ytimg.com/vi/WA4dDs0T7sM/hqdefault.jpg",
+      "thumbnail_width": 480,
+      "html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/WA4dDs0T7sM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "provider_name": "YouTube",
+      "thumbnail_height": 360,
+      "height": 270,
+      "title": "You Can't Stop Us | Nike",
+      "author_name": "Nike",
+      "version": "1.0",
+      "width": 480,
+      "embed_url": "https://www.youtube.com/watch?v=WA4dDs0T7sM"
+    }
+  }
+}

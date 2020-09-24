@@ -1,8 +1,8 @@
-import PropTypes from "prop-types";
-import Link from "next/link";
+import PropTypes from 'prop-types';
+import Link from 'next/link';
 
 const Preview = ({ preview }) => {
-  if (!preview) return "";
+  if (!preview) return '';
   return (
     <>
       <div className="preview">

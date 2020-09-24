@@ -14,6 +14,7 @@ const MySlice = ({ slice }) => (
           <RichText render={slice.primary.description} />
         ) : null}
       </div>
+
       <div className="btn-group">
         {slice.items
           ? slice.items.map((item, index) => {
@@ -33,16 +34,15 @@ const MySlice = ({ slice }) => (
     }
 
     .price-slice{
-
       position:relative;
-      color:white;
+      color:black;
       overflow-x: hidden;
       boxing-sizing:border-box;
     }
 
     .image{
       width:100%;
-      height:400px;
+      height:600px;
     }
 
     .price-content{
@@ -67,14 +67,14 @@ const MySlice = ({ slice }) => (
 
     .price-btn{
       display:block;
-      background-color:black;
+      background-color:white;
       outline:none;
       width:180px;
       height:50px;
       font-size:15px;
       border:none;
       cursor:pointer;
-      color:white;
+      color:black;
       margin-right:30px;
 
     }
